@@ -2,13 +2,13 @@
 
 Certificate: https://coursera.org/share/e9f69edbaf9d6a34ef2f082ba5e467ca
 
-Certificate for Warmann Onisowurun, Google Cybersecurity, offered through Coursera. 
+Certificate for Google Cybersecurity offered through Coursera. 
 
-Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. 
+Those who earn the Google Cybersecurity Certificate have completed eight courses developed by Google. These courses include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. 
 
-They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
+They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities and the techniques to mitigate them.
 
-**The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.**
+**The focus of this Portfolio was to gather, improve and complete activities related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.**
 
 This course covered topics such as:
 
@@ -30,7 +30,7 @@ It taught me new technical skills in:
 
 <br>
 
-And I was able to brush up on a lot of fundamental information and develop even further in the following skills:
+I was able to brush up on a lot of fundamental information and develop even further in the following skills:
 
 <li>Python</li>
 <li>SQL</li>
